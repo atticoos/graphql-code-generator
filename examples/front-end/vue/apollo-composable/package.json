@@ -13,7 +13,7 @@
     "@apollo/client": "^3.6.9",
     "@graphql-codegen/client-preset": "2.0.0",
     "@vue/apollo-composable": "4.0.0-alpha.19",
-    "vue": "3.2.37"
+    "vue": "3.2.47"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "2.16.5",
