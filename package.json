@@ -48,7 +48,7 @@
     "@types/react": "18.0.18",
     "@types/webpack-env": "1.18.0",
     "@urql/exchange-graphcache": "5.0.5",
-    "@vue/apollo-composable": "4.0.0-alpha.19",
+    "@vue/apollo-composable": "4.0.0-beta.2",
     "@vue/composition-api": "1.7.0",
     "apollo-client": "2.6.10",
     "apollo-server": "3.10.2",

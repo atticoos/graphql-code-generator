@@ -4153,10 +4153,10 @@
   resolved "https://registry.yarnpkg.com/@vercel/ncc/-/ncc-0.34.0.tgz#d0139528320e46670d949c82967044a8f66db054"
   integrity sha512-G9h5ZLBJ/V57Ou9vz5hI8pda/YQX5HQszCs3AmIus3XzsmRn/0Ptic5otD3xVST8QLKk7AMk7AqpsyQGN7MZ9A==
 
-"@vue/apollo-composable@4.0.0-alpha.19":
-  version "4.0.0-alpha.19"
-  resolved "https://registry.yarnpkg.com/@vue/apollo-composable/-/apollo-composable-4.0.0-alpha.19.tgz#5066426ac5c73717a1f7fd5bfe884587af7ac0ff"
-  integrity sha512-bxFjzV/j8j3kzWcG4iX8z4JnidTKjQytmVL2tJWRdjeKZbfZDV9nVr/XBVPP75+iR5ckZe6EKinDKkjnYFKhlg==
+"@vue/apollo-composable@4.0.0-beta.2":
+  version "4.0.0-beta.2"
+  resolved "https://registry.yarnpkg.com/@vue/apollo-composable/-/apollo-composable-4.0.0-beta.2.tgz#4614ac9bd8b545a91c7e2b9f8b86b82351454789"
+  integrity sha512-SGZ1uklEldjG9UTMQnHyr9N4+C4D6hZXn3LDkDtpMVLAQksh30sqapSOFkEowOBVWyc/7f/JiCGADOhvxCWRxw==
   dependencies:
     throttle-debounce "^3.0.1"
     ts-essentials "^9.1.2"
