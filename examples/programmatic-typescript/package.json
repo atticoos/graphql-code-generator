@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "@types/node": "18.11.18",
-    "tsup": "6.2.3"
+    "tsup": "6.6.0"
   }
 }
